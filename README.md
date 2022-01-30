@@ -4,8 +4,11 @@
 - 🤔 I’m looking for help to find my first job!
 - ⚡ Fun fact: I love cats 😼😹 & donuts 🍩
 
+<div align="left">    
+  <a href="https://www.linkedin.com/in/catiafreitas-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/catfreitas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=catfreitas&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catfreitas&layout=compact&langs_count=7&theme=aura_dark"/>
