@@ -1,4 +1,4 @@
-### Hello!! My name's Cátia Freitas and I'm Full-Stack Web Developer ✌️😎
+### Hello!! My name is Cátia Freitas and I'm Full-Stack Web Developer ✌️😎
 
 - 🌱 I’m currently learning java
 - 🤔 I’m looking for help to find my first job!
